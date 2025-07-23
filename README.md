@@ -19,8 +19,7 @@ PLDC-Net was tested with these versions listed above. Other versions might work 
 
 ## 2. How to use
 
-- The `PLDC_Net.py` file contains the model architecture for the **PLDC-Net** model
-- The `train.py` file can be used to train the model
+- The `PLDC_Net.py` file contains the model architecture for the **PLDC-Net** model, import the model to train it at will.
 
 ## 3. PLDC-Net
 
