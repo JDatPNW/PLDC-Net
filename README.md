@@ -12,8 +12,6 @@ This repository incldes the code for the architecture of **PLDC-Net** as well as
 | python      |3.11.5|
 | keras          |2.13.1|
 | tensorflow       |2.13.0|
-| numpy        |1.24.3 |
-| matplotlib        |3.7.2|
 
 PLDC-Net was tested with these versions listed above. Other versions might work too, but we can not guarantee that they will.
 
